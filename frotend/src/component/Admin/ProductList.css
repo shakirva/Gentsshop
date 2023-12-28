@@ -1,0 +1,163 @@
+.product-list {
+    display: flex;
+    align-items: flex-start;
+    background-color: #f1f1f1;
+    justify-content: center;
+    width: 100%;
+    gap: 1rem;
+    overflow: hidden;
+    margin-top: -1rem !important;
+    padding: 0;
+  }
+  
+  .listSidebar {
+    width: 20%;
+    margin: 0;
+    height: fit-content;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    display: block;
+  }
+  
+  
+  
+    .toggleBox {
+      width: 16rem;
+      margin: 0;
+      height: fit-content;
+      background-color: white;
+      border-radius: 5px;
+      box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+      display: block;
+      z-index: 100;
+      position: absolute;
+      top: 58px;
+      left: 17px;
+    }
+  @media only screen and (max-width: 999px) {
+    .listSidebar {
+      display: none;
+    }
+  }
+  
+  
+  .list-table {
+    width: 80%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  @media only screen and (max-width: 999px) {
+    .list-table {
+      width: 100%;
+    }
+  }
+  
+  .productListContainer
+  { background-color: white ;
+    width: 96%;
+    height: fit-content;
+    padding: 1rem;
+    border-radius: 1px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+  
+  }
+  .productListTable {
+    width: 100%;
+    overflow-x: auto; 
+    scrollbar-width: thin; 
+    scrollbar-color: #000 #f1f1f1; 
+    width: calc(100% - 30px); 
+  }
+  
+  
+  .productListHeading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 10px;
+    margin: 0;
+    padding: 0;
+    color: #414141;
+    width: 100%;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    text-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5) ;
+  }
+  .column-header{
+    width: fit-content  ;
+    padding: 0px 10px ;
+    font-size: 16px ;
+    font-weight: 600 ;
+    align-items: center;
+    margin: 0px 0px 0px 15px ;
+  }
+  
+  .column-header:hover{
+    color: #ed1c24;
+    background-color: #f2f2f2c1;
+    cursor: pointer;
+  }
+  
+  
+  .column-header1 {
+    width: fit-content ;
+    padding: 0px 10px ;
+    font-size: 16px ;
+    font-weight: 600 ;
+    margin-left: 3rem ;
+  }
+  
+  
+  
+  .icon-{
+    font-size: 20px;
+    color: #fff;
+    background-color: #414141;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 3rem ;
+  }
+  .iconbtn {
+     font-size: 20px;
+    color: #fff;
+    background-color: #414141;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 0.5rem;
+  }
+  .icon-:hover{
+   background-color: #ed1c24;
+  
+  }
+  .iconbtn:hover{
+   background-color: #ed1c24;
+  
+  }
+  
+  .MuiDataGrid-root .MuiDataGrid-cell--textLeft{
+    margin-left: 1.2rem !important;
+    color: #000 !important;
+  }
+  
+  @media (max-width: 699px) {
+    .hide-on-mobile {
+      display: none;
+    }
+  }
+  
+  
+  /* orderList status  */
+  .greenColor {
+    color: green !important;
+    font-weight: 600;
+  }
+  
+  .redColor {
+    color: red !important;
+    font-weight: 600;
+  }

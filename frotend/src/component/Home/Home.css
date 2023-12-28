@@ -1,0 +1,36 @@
+.trending_heading {
+
+    text-align: center;
+    margin-top: 2.7rem;
+    margin-bottom: 20px;
+    font-family: "Archivo", sans-serif;
+  }
+  
+  .trending-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.8rem;
+    margin: 0 1.8rem;
+  }
+  
+  @media only screen and (min-width: 600px) {
+    .trending-products {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+  }
+  
+  @media only screen and (min-width: 960px) {
+    .trending-products {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+  }
+  
+  @media only screen and (min-width: 1200px) {
+    .trending-products {
+      max-width: 1440px;
+      margin: 0 auto;
+    }
+  }

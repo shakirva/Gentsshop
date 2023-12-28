@@ -1,0 +1,42 @@
+.parent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: fit-content;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    
+  }
+  
+  .cricket-ball-loader {
+    overflow: hidden;
+    width: fit-content;
+    margin: 10rem auto;
+  }
+  
+  .spinner {
+    width: auto;
+    height: 7.5rem;
+    animation: spin 1s infinite linear;
+    transform-origin: center center;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @media (max-width: 799px) {
+    .cricket-ball-loader {
+      margin: 12rem auto;
+    }
+  
+    .spinner {
+      height: 7rem;
+    }
+  }
