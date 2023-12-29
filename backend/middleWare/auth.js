@@ -9,7 +9,7 @@ exports.isAuthentictedUser = asyncWrapper(async (req , res , next) =>{
     const { token } = req.cookies; 
 // if there is no token found
 if(!token){
-    return next(new ErrorHandler("Please Login to access poda this resource", 401)); 
+    return next(new ErrorHandler("Please Login to access  this resource", 401)); 
 }
 
 // now verify that token with seceret key . 
