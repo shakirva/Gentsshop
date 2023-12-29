@@ -113,7 +113,7 @@ const slides = [
     image: require("../../Image/Cricket-wepon/04.jpg"),
     quote:
       "Elevate Your Performance and Unleash Your True Cricketing Potential with Our Cutting-Edge Gear",
-    saleText: "New Arrivals: Enhance your skills and excel on the field",
+    saleText: "kitti guyzzz",
     productText: "Upgrade Now",
   },
 ];
