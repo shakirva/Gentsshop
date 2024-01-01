@@ -14,7 +14,7 @@ const PrivacyPolicy = () => {
           Effective Date: 23-12-2021
         </p>
         <p>
-          At CricketWeapon, we value the privacy of our customers and are
+          At manefest, we value the privacy of our customers and are
           committed to protecting your personal information. This Privacy Policy
           explains how we collect, use, disclose, and safeguard your information
           when you use our website and services. Please read this Privacy Policy

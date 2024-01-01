@@ -108,22 +108,22 @@ const footMenu = [
    {
      id: 1,
      icon: <FacebookIcon className="facebook_icon" fontSize="large" />,
-     path: "https://www.instagram.com/iam_nightbot/",
+     path: "",
    },
    {
      id: 2,
      icon: <TwitterIcon className="twitter_icon" fontSize="large" />,
-     path: "https://twitter.com/Iam_DEv22",
+     path: "",
    },
    {
      id: 3,
      icon: <InstagramIcon className="insta_icon" fontSize="large" />,
-     path: "https://www.instagram.com/cricket_weapon_store17",
+     path: "",
    },
    {
      id: 4,
      icon: <LinkedInIcon className="likedin_icon" fontSize="large" />,
-     path: "https://www.linkedin.com/in/iam-devesh/",
+     path: "https://www.instagram.com/manefest.co/",
    },
  ];
 
@@ -152,7 +152,7 @@ const Footer = () => {
                     src={require("../../../Image/Footer/logo.png")}
                     alt="cricekt weapon logo"
                   />
-                  <h1 className="Foot_heading">Cricket Weapon</h1>
+                  <h1 className="Foot_heading">manefest</h1>
                 </Link>
               </div>
 
@@ -265,9 +265,9 @@ const Footer = () => {
 
               <div className="foot_copyright">
                 <p>
-                  &copy; {currYear} | Cricket weapon, All Rights Reserved.
+                  &copy; {currYear} | manefest, All Rights Reserved.
                   <span>
-                    <a href="iam-devesh.tech"> | Built by Iam_DEv</a>
+                    <a href="https://github.com/shakirva"> | shakir va</a>
                   </span>
                 </p>
               </div>

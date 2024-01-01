@@ -61,7 +61,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://192.168.1.6:10000/",
+  "proxy": "http://192.168.1.46:10000/",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "eslint-config-react-app": "^7.0.1"

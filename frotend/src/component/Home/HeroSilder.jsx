@@ -87,7 +87,7 @@ const useStyles = makeStyles((theme) => ({
 
 const slides = [
   {
-    image: require("../../Image/Cricket-wepon/img2.png"),
+    image: require("../../Image/manefest/1.jpg"),
     quote:
       "Unleash Your Passion for Cricket and Embrace the Thrill of the Game",
     saleText:
@@ -95,7 +95,7 @@ const slides = [
     productText: "Shop Now",
   },
   {
-    image: require("../../Image/Cricket-wepon/03.jpg"),
+    image: require("../../Image/manefest/2.jpg"),
     quote:
       "Experience the Unparalleled Excitement and Achieve Victory with Our Premium Cricket Equipment",
     saleText:
@@ -103,14 +103,14 @@ const slides = [
     productText: "Buy Now",
   },
   {
-    image: require("../../Image/Cricket-wepon/01.jpg"),
+    image: require("../../Image/manefest/3.jpg"),
     quote:
       "Gear up with the Latest Innovations and Dominate the Field like Never Before",
     saleText: "Discover New Arrivals and stay ahead of the competition",
     productText: "Explore",
   },
   {
-    image: require("../../Image/Cricket-wepon/04.jpg"),
+    image: require("../../Image/manefest/4.png"),
     quote:
       "Elevate Your Performance and Unleash Your True Cricketing Potential with Our Cutting-Edge Gear",
     saleText: "kitti guyzzz",

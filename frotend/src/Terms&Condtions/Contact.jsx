@@ -175,7 +175,7 @@ const ContactForm = () => {
   const alert = useAlert();
   const history = useHistory();
   const handleCall = () => {
-    window.location.href = "tel:+8171280446";
+    window.location.href = "tel:+9526065852";
   };
 
   const handleSubmit = (e) => {
@@ -208,7 +208,7 @@ const ContactForm = () => {
             }}
             onClick={handleCall}
           >
-            8171280446
+            9526065852
           </strong>
           .
         </Typography>
@@ -228,12 +228,12 @@ const ContactForm = () => {
 
         <Typography variant="body2" className={classes.address_contacts}>
           <span style={{ fontWeight: "500", paddingBottom: "0.5rem" }}>
-            CricketWeapon Store, Pvt Ltd.
+            Manefest , Pvt Ltd.
           </span>
           <br />
-          15130 Sec 22
+          Pokkund,Kurumathur
           <br />
-          Noida, UP 201301
+          Kannur, Kerala
           <br />
           India
         </Typography>

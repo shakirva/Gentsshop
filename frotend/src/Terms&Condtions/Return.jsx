@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Return.css"
 import MetaData from "../component/layouts/MataData/MataData";
-import TermsImage from "../Image/about/tc.jpg";
+import TermsImage from "../Image/about/tc.png";
 const ReturnPolicyPage = () => {
   return (
     <div className="container__0">
@@ -16,7 +16,7 @@ const ReturnPolicyPage = () => {
       </div>
       <div className="content-container">
         <p>
-          Thank you for shopping with CricketWeapon! We want to ensure your
+          Thank you for shopping with manefest! We want to ensure your
           satisfaction with every purchase. If you are not completely satisfied
           with your purchase, we offer a return policy of 30 days for most
           products and 7 days for select products.
@@ -56,7 +56,7 @@ const ReturnPolicyPage = () => {
           Customer Service Department
           <br />
           <span style={{ fontWeight: "500" }}>Email </span>: 
-          support@cricketweapon.com
+          support@manefest.co
           <br />
           <span style={{ fontWeight: "500" }}>Phone  </span>:  123-456-7890
           <br />

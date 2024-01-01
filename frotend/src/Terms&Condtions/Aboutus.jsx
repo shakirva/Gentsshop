@@ -2,7 +2,7 @@ import React from "react";
 import { Typography, Container, Grid, Button } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import MetaData from "../component/layouts/MataData/MataData";
-import TermsImage from "../Image/about/tc.jpg";
+import TermsImage from "../Image/about/tc.png";
 import { Link } from "react-router-dom";
 const useStyles = makeStyles((theme) => ({
   about_us: {
@@ -122,21 +122,19 @@ const About_UsPage = () => {
                 About Us
               </Typography>
               <Typography variant="body1" className={classes.introText_about}>
-                CricketWeapon store is an online cricket sports selling startup
-                started in 2019. We have served more than 20,000 customers
-                through social media and other platforms. We are proud to offer
-                our own products under the brand name CW, also known as "Cricket
-                Weapon".
+              Manefest is an online men's fashion store that started in 2019. We take pride in serving over 20,000 customers through various online platforms and social media channels. At Manefest, we are dedicated to providing high-quality fashion products, and we are excited to introduce our own line of products under the distinctive brand name "Manefest."
+
+Explore our curated collection of men's clothing, footwear, and accessories designed to elevate your style. Join the Manefest community and discover the latest trends and timeless classics that suit your unique taste.
+
+Welcome to Manefest – where style meets individuality.
               </Typography>
               <Typography variant="body1" className={classes.introText_about}>
-                CricketWeapon was founded by Lokesh Samant, a talented cricket
-                player who has represented the Under 16 and Under 19 teams.
-                Lokesh started this business to support his expenses and
-                received an overwhelming response. He has sold cricket equipment
-                to more than 20,000 customers till date. Now, he aims to expand
-                his business to an international level by launching his own
-                website and introducing new and genuine cricket products at
-                competitive prices.
+              Manefest was founded by Shameer and Juraij, two visionary entrepreneurs deeply passionate about men's fashion. Fueled by their shared love for style and individuality, Shameer and Juraij set out on a journey to curate a distinctive collection of clothing and accessories. Their vision is to provide a diverse range of fashion-forward products that resonate with individuals seeking quality and trendsetting designs.
+
+Having gained substantial recognition, Shameer and Juraij's dedication has led Manefest to serve over 20,000 customers to date. As they continue to grow, the focus is on reaching an international audience. With the launch of their dedicated website, they aim to introduce new and authentic fashion products at competitive prices, making Manefest a global destination for men's style.
+
+Join them on this fashion-forward journey, and experience the essence of individual expression with Manefest.
+
               </Typography>
             </Grid>
           </Grid>
@@ -150,28 +148,28 @@ const About_UsPage = () => {
             Who We Are
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            CricketWeapon is dedicated to providing high-quality cricket
-            equipment and accessories to cricket enthusiasts worldwide. Our
-            mission is to empower cricketers with the best tools to enhance
-            their performance on the field. With a focus on innovation,
-            craftsmanship, and customer satisfaction, we have become a trusted
-            brand in the cricket community.
+          Manefest is committed to delivering premium men's fashion and accessories to individuals worldwide. Our mission is to empower men with the finest style essentials, enhancing their confidence and expression. With a dedication to innovation, craftsmanship, and customer satisfaction, we have earned the trust of a growing community of individuals who appreciate quality fashion.
+
+At Manefest, we curate collections that blend timeless elegance with contemporary trends. Our focus on providing exceptional products has established us as a trusted brand in the world of men's fashion. Whether you seek classic sophistication or the latest fashion-forward pieces, Manefest is here to elevate your style.
+
+Experience the intersection of quality and style with Manefest, where fashion meets individuality.
+
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            Since our inception in 2019, we have built a strong customer base
-            and expanded our product range to cater to the diverse needs of
-            players at every level. We take pride in offering genuine cricket
-            products that are carefully curated and tested for quality and
-            performance. Our team of experts works closely with manufacturers to
-            ensure that our customers receive top-notch products.
+          Since our establishment in 2019, Manefest has cultivated a robust community of customers while diversifying our product range to meet the distinct needs of individuals at every style level. We take pride in presenting authentic fashion products meticulously curated and tested for quality and trendsetting performance.
+
+At Manefest, our team of experts collaborates closely with manufacturers to guarantee that our customers receive fashion-forward products of the highest caliber. We are dedicated to staying at the forefront of style innovation, ensuring that each item in our collection reflects the essence of contemporary fashion.
+
+Join us on our journey at Manefest, where we continue to redefine and elevate men's style since our inception.
+
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            At CricketWeapon, we believe in fostering long-term relationships
-            with our customers. We provide excellent customer service and strive
-            to exceed expectations at every step. We are committed to delivering
-            a seamless online shopping experience and ensuring customer
-            satisfaction. Join us on this exciting journey as we continue to
-            grow and expand our reach in the world of cricket.
+          At Manefest, we are dedicated to cultivating enduring connections with our valued customers. Our commitment to excellent customer service drives us to consistently exceed expectations at every touchpoint. We are unwavering in our pursuit of delivering a seamless online shopping experience and ensuring unparalleled customer satisfaction.
+
+Embark on this exhilarating journey with us as we navigate the realms of men's fashion. Together, let's witness the growth and expansion of Manefest, as we strive to extend our reach and influence in the world of style.
+
+Join us and experience the difference at Manefest – where relationships are cherished, and style knows no bounds.
+
           </Typography>
         </Container>
         <Container className={classes.container_12}>
@@ -183,22 +181,20 @@ const About_UsPage = () => {
             Our Mission
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            CricketWeapon is driven by the mission to provide high-quality
-            cricket equipment and accessories at affordable prices. We aim to
-            make cricket accessible to players worldwide and support their
-            passion for the sport. Our mission is to offer a wide range of
-            cricket equipment, including bats, balls, protective gear, and
-            accessories, that meet the highest standards of quality and
-            performance.
+          At Manefest, our mission is fueled by the commitment to deliver top-notch men's fashion and accessories at accessible prices. We strive to make exceptional style accessible to individuals worldwide, supporting their unique expressions through fashion. Our goal is to present a diverse range of clothing and accessories, including shirts, pants, footwear, and more, all crafted to meet the highest standards of quality and trendsetting performance.
+
+Join us in our mission to redefine and democratize men's style. At Manefest, we believe that everyone deserves access to exceptional fashion without compromise.
+
+Experience the fusion of affordability and impeccable style at Manefest – where fashion meets accessibility.
+
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            We are committed to continuously innovating and improving our
-            product range to meet the evolving needs of cricketers. Our team of
-            experts works closely with manufacturers and conducts rigorous
-            quality testing to ensure that every product we offer delivers
-            exceptional performance on the field. We believe that every player
-            deserves the best tools to enhance their skills and achieve their
-            cricketing goals.
+          At Manefest, we are unwavering in our commitment to constant innovation and enhancement of our product range to cater to the evolving needs of individuals seeking standout style. Our dedicated team of experts collaborates closely with manufacturers, conducting meticulous quality testing to guarantee that every product we offer not only meets but exceeds the expectations of exceptional performance.
+
+We believe that every individual deserves access to the finest tools to amplify their personal style and achieve their unique fashion goals. At Manefest, we are driven by the belief that style should be both dynamic and empowering.
+
+Join us in our pursuit of style innovation at Manefest – where every individual's fashion journey is empowered and elevated.
+
           </Typography>
 
           <div className={classes.buttonContainer_about}>

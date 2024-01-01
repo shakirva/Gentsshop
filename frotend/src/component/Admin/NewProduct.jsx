@@ -66,19 +66,23 @@ function NewProduct() {
   const handleImageUpload = () => {
     fileInputRef.current.click();
   };
- const categories = [
-   "Cricket Kits",
-   "Batting Gloves",
-   "Batting Pads",
-   "Bats",
-   "Bags",
-   "Helmets",
-   "Balls",
-   "Stumps",
-   "Shoes",
-   "Clothing",
-   "Accessories",
- ];
+  const categories = [
+    "T-Shirts",
+    "Shirts",
+    "Jeans",
+    "Pants",
+    "Suits",
+    "Jackets",
+    "Sweaters",
+    "Activewear",
+    "Shorts",
+    "Accessories",
+    "Footwear",
+    "Watches",
+    "Hats",
+    "Sunglasses",
+    "Belts",
+  ];  
   useEffect(() => {
     if (error) {
       alert.error(error);
