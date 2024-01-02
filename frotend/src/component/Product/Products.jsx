@@ -24,18 +24,23 @@ import FormControlLabel from "@mui/material/FormControlLabel";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 
 const categories = [
-  "Cricket Kits",
-  "Batting Gloves",
-  "Batting Pads",
-  "Bats",
-  "Bags",
-  "Helmets",
-  "Balls",
-  "Stumps",
-  "Shoes",
-  "Clothing",
+  "T-Shirts",
+  "Shirts",
+  "Jeans",
+  "Pants",
+  "Suits",
+  "Jackets",
+  "Sweaters",
+  "Activewear",
+  "Shorts",
   "Accessories",
+  "Footwear",
+  "Watches",
+  "Hats",
+  "Sunglasses",
+  "Belts",
 ];
+
 
 function Products() {
   const match = useRouteMatch();

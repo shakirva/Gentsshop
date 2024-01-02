@@ -118,12 +118,12 @@ const footMenu = [
    {
      id: 3,
      icon: <InstagramIcon className="insta_icon" fontSize="large" />,
-     path: "",
+     path: "https://www.instagram.com/p/CrDzrm9L_Ey/",
    },
    {
      id: 4,
      icon: <LinkedInIcon className="likedin_icon" fontSize="large" />,
-     path: "https://www.instagram.com/manefest.co/",
+     path:"",
    },
  ];
 
@@ -149,10 +149,10 @@ const Footer = () => {
               <div className="foot_logo">
                 <Link to="/" style={{ textDecoration: "none" }}>
                   <img
-                    src={require("../../../Image/Footer/logo.png")}
-                    alt="cricekt weapon logo"
+                    src={require("../../../Image/Footer/Manefestlogo.png")}
+                    alt="manefest logo"
                   />
-                  <h1 className="Foot_heading">manefest</h1>
+                  <h1 className="Foot_heading">""</h1>
                 </Link>
               </div>
 

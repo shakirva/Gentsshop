@@ -89,15 +89,16 @@ const slides = [
   {
     image: require("../../Image/manefest/1.jpg"),
     quote:
-      "Unleash Your Passion for Cricket and Embrace the Thrill of the Game",
+      
+"Elevate your style game with Manefest – Where Fashion meets Confidence!",
     saleText:
-      "Get in the game with up to 50% off on a wide range of cricket gear's",
+      "Get in the game with up to 50% off on a wide range of fashions ",
     productText: "Shop Now",
   },
   {
     image: require("../../Image/manefest/2.jpg"),
     quote:
-      "Experience the Unparalleled Excitement and Achieve Victory with Our Premium Cricket Equipment",
+      "Experience the Unparalleled Excitement and Achieve Victory with Our Premium Accessories",
     saleText:
       "Limited Time Offer: Don't miss out on the opportunity to upgrade your game",
     productText: "Buy Now",
@@ -112,8 +113,8 @@ const slides = [
   {
     image: require("../../Image/manefest/4.png"),
     quote:
-      "Elevate Your Performance and Unleash Your True Cricketing Potential with Our Cutting-Edge Gear",
-    saleText: "kitti guyzzz",
+      "Dress like you're already famous. Shop at Manefest and let your style do the talking",
+    saleText: "Discover the art of timeless elegance. Manefest - Your destination for sophistication",
     productText: "Upgrade Now",
   },
 ];

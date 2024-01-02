@@ -106,10 +106,10 @@
   
   
   .headerBottom__logo_main{
-      height: 5rem;
+      height: 4.5rem;
       align-self: center;
       padding-left: 25px;
-      margin-top: 7px;
+      margin-top: 2px;
   }
   .header_mobile_menu{
     display: none;
