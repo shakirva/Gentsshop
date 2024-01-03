@@ -100,7 +100,7 @@ const slides = [
     quote:
       "Experience the Unparalleled Excitement and Achieve Victory with Our Premium Accessories",
     saleText:
-      "Limited Time Offer: Don't miss out on the opportunity to upgrade your game",
+      "Limited Time Offer: Don't miss out on the opportunity and chance to upgrade your game",
     productText: "Buy Now",
   },
   {
