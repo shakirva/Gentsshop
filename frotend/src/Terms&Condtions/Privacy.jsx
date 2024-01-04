@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
     <div className="privacy-policy-container">
      <MetaData title={"Privacy Policy"} />
       <div className="container___">
-        <h1>Privacy Policy of CricketWeapon</h1>
+        <h1>Privacy Policy of Manefest</h1>
         <p style={{ fontSize: "16px", fontWeight: "600" }}>
           {" "}
           Effective Date: 23-12-2021

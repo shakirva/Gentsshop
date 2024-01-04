@@ -109,7 +109,7 @@ const About_UsPage = () => {
             <Grid item xs={12} sm={6}>
               <img
                 src={TermsImage}
-                alt="CricketWeapon"
+                alt="manefest"
                 className={classes.image_about}
               />
             </Grid>

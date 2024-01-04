@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Return.css"
 import MetaData from "../component/layouts/MataData/MataData";
-import TermsImage from "../Image/about/tc.png";
+import TermsImage from "../Image/about/tc.webp";
 const ReturnPolicyPage = () => {
   return (
     <div className="container__0">
@@ -12,7 +12,7 @@ const ReturnPolicyPage = () => {
           src={TermsImage}
           alt="Background"
         />
-        <h1 className="policy-text">RETURN POLICY</h1>
+        <h1 className="policy-text">""</h1>
       </div>
       <div className="content-container">
         <p>

@@ -12,7 +12,7 @@ const TermsAndConditionsPage = () => {
         className="terms-image"
       />
       <div className="terms-overlay">
-        <h1 className="terms-title">TERMS AND CONDITIONS</h1>
+        <h1 className="terms-title">""</h1>
       </div>
       <div className="terms-content">
         <p>
