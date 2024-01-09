@@ -1,13 +1,8 @@
-# Cricket Weapon E-Commerce Shopping App
+# Gentsshop E-Commerce Shopping App (Manefest)
 ---
-### ⚙️ &nbsp; Time Taken to Complete this Project :
-<p align="center">
-<a href="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934/project/bf69fe19-66f3-47fa-99e9-f9e2926856e5"><img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934/project/bf69fe19-66f3-47fa-99e9-f9e2926856e5.svg" alt="wakatime"></a>
-</p>
-
 ## Introduction
 ---
-Welcome to Cricket Weapon, an e-commerce shopping app built using the MERN (MongoDB, Express, React, Node.js) stack and Material-UI (MUI) for the user interface. This project provides both normal user and admin modes, offering a wide range of features to enhance the shopping experience.
+Welcome to Gentsshop(Manefest), an e-commerce shopping app built using the MERN (MongoDB, Express, React, Node.js) stack and Material-UI (MUI) for the user interface. This project provides both normal user and admin modes, offering a wide range of features to enhance the shopping experience.
 
 ## Demo
 
@@ -21,8 +16,8 @@ https://github.com/shakirva/Gentsshop/blob/main/Demo/Admin%20demo.mp4
 
 | Email (Normal User) | Password | Email (Admin)     | Password  |
 | ------------------- | -------- | ----------------- | --------- |
-| user2@gmail.com     | user1234 | admin@gmail.com   | admin@123 |
-| user3@gmail.comm    | user1234 | admin01@gmail.com | user1234  |
+| user@gmail.com     | user1234 | admin@gmail.com   | admin1234 |
+| user01@gmail.com   | user1234 | admin01@gmail.com | admin1234  |
 
 ## Tech Stack
 
@@ -67,8 +62,8 @@ https://github.com/shakirva/Gentsshop/blob/main/Demo/Admin%20demo.mp4
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/MehraDevesh2022/CricketWeapon-Store.git
-    cd CricketWeapon-Store
+    git clone https://github.com/shakirva/Gentsshop.git
+    cd Gentsshop
     ```
 2.  Install dependencies:
     ```bash
@@ -292,7 +287,7 @@ This guide will walk you through the process of hosting your complete MERN stack
 ### Step 4: Create a Vercel Project
 
 - Create a new project in Vercel.
-- Select your GitHub repository (e.g., CricketWeapon-store).
+- Select your GitHub repository (e.g., Gentsshop).
 
 ### Step 5: Configure Project Settings
 
@@ -316,6 +311,5 @@ This guide will walk you through the process of hosting your complete MERN stack
 
 | Contributor                                           |
 | ----------------------------------------------------- |
-| [ImgBotApp](https://github.com/ImgBotApp)             |
-| [MehraDevesh2022](https://github.com/MehraDevesh2022) |
-| [0dayhunter](https://github.com/MehraDevesh2022) |
+| [shakir](https://github.com/shakirva)             |
+
