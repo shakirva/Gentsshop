@@ -7,11 +7,11 @@ Welcome to Gentsshop(Manefest), an e-commerce shopping app built using the MERN 
 ## Demo
 
 ### Normal User Area
-
-https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/d8eb6147-aed7-42c5-8d1f-0afcf6d05689
+https://github.com/shakirva/Gentsshop/blob/main/Demo/User%20demo.mp4
 
 ### Admin Area
 https://github.com/shakirva/Gentsshop/blob/main/Demo/Admin%20demo.mp4
+
 ## Dummy User Accounts
 
 | Email (Normal User) | Password | Email (Admin)     | Password  |
